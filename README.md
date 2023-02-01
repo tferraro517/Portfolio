@@ -1,5 +1,4 @@
-# Portfolio
-Bootcamp portfolio
+
 Resume project GIVEN I need to sample a potential employee's previous work
 
 WHEN I load their Resume THEN I am presented with the applicants name, their photo, and links to their work, with contact information.
